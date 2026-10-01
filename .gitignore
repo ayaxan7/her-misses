@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*_token.json
+*credentials*.json
+google_client_secret.json
+auth.json
+config.yaml
+*.db
+*.db-shm
+*.db-wal
+*.log
+__pycache__/
+.venv/
+venv/
